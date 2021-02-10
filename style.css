@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #e9f0f5;
+}
+p{
+    margin: 10px 0;
+}
+header{
+    background: #5e6482;
+    height: 70px;
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+#timeline{
+    background: darkorchid;
+    min-height: 700px;
+    margin: 20px 0 20px 0;
+}
+footer{
+background:lightgrey;
+height: 40px;
+color: #fff;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+}
